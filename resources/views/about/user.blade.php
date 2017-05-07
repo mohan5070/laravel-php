@@ -1,0 +1,1 @@
+<p>{{ Session::get('info')}}</p>
